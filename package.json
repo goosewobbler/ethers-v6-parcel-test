@@ -1,0 +1,26 @@
+{
+  "name": "ethers-v6-parcel-test",
+  "version": "0.0.1",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goosewobbler/ethers-v6-parcel-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goosewobbler/ethers-v6-parcel-test/issues"
+  },
+  "homepage": "https://github.com/goosewobbler/ethers-v6-parcel-test#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "ethers": "^6.1.0"
+  }
+}
